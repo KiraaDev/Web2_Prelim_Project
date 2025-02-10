@@ -8,10 +8,10 @@ function Header() {
 
       {/* Search Input */}
       <div
-        class="flex items-center border w-80 pr-3 gap-2 bg-white border-gray-800/30 h-[46px] rounded-[5px] overflow-hidden"
+        className="flex items-center border w-80 pr-3 gap-2 bg-white border-gray-800/30 h-[46px] rounded-[5px] overflow-hidden"
       >
         <input
-          class="w-full h-full pl-5 outline-none placeholder-gray-500 text-sm"
+          className="w-full h-full pl-5 outline-none placeholder-gray-500 text-sm"
           placeholder="Search for todos"
           type="text"
         />
@@ -28,28 +28,28 @@ function Header() {
             d="M 13 3 C 7.4889971 3 3 7.4889971 3 13 C 3 18.511003 7.4889971 23 13 23 C 15.396508 23 17.597385 22.148986 19.322266 20.736328 L 25.292969 26.707031 A 1.0001 1.0001 0 1 0 26.707031 25.292969 L 20.736328 19.322266 C 22.148986 17.597385 23 15.396508 23 13 C 23 7.4889971 18.511003 3 13 3 z M 13 5 C 17.430123 5 21 8.5698774 21 13 C 21 17.430123 17.430123 21 13 21 C 8.5698774 21 5 17.430123 5 13 C 5 8.5698774 8.5698774 5 13 5 z"
           ></path>
         </svg>
-        <div class="h-6 w-px bg-gray-500/50"></div>
+        <div className="h-6 w-px bg-gray-500/50"></div>
         <svg
           fill="#6B7280"
-          xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlnsXlink="http://www.w3.org/1999/xlink"
           xmlns="http://www.w3.org/2000/svg"
           version="1.1"
           viewBox="0 0 32.00 32.00"
           width="20px"
         >
-          <g stroke-width="0" id="SVGRepo_bgCarrier"></g>
+          <g strokeWidth="0" id="SVGRepo_bgCarrier"></g>
           <g
-            stroke-width="0.064"
+            strokeWidth="0.064"
             stroke="#CCCCCC"
-            stroke-linejoin="round"
-            stroke-linecap="round"
+            strokeLinejoin="round"
+            strokeLinecap="round"
             id="SVGRepo_tracerCarrier"
           ></g>
           <g id="SVGRepo_iconCarrier">
             <title>microphone</title>
             <desc>Created with Sketch Beta.</desc>
             <defs></defs>
-            <g fill-rule="evenodd" fill="none" stroke-width="0.00032" id="Page-1">
+            <g fillRule="evenodd" fill="none" strokeWidth="0.00032" id="Page-1">
               <g
                 fill="#6B7280"
                 transform="translate(-105.000000, -307.000000)"
